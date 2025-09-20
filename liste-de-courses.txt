@@ -1,5 +1,6 @@
 <<<<<<<
 * 3 tomates
 * 2 abricots
+* carottes
 =======
 >>>>>>>
